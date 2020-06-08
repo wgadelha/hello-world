@@ -1,6 +1,6 @@
 # hello-world
 Hello word code to learn how to use github
 
-Olá Mundo!
+Hi GitHub!
 
-Inventei de aprender a utilizar esse danado do GitHub, para desenvolver alguma coisa com minha esposa.
+Trying new knowledges in GitHub, for later colaboration on private shared projects.
